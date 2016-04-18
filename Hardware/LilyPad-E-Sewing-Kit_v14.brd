@@ -319,7 +319,7 @@
 <hole x="0.8382" y="23.9522" drill="0.508"/>
 <hole x="23.5204" y="47.5742" drill="0.508"/>
 <hole x="2.794" y="21.8694" drill="0.508"/>
-<hole x="0.8128" y="23.368" drill="0.508"/>
+<hole x="0.5588" y="23.2156" drill="0.508"/>
 <hole x="25.1384" y="46.2788" drill="0.508"/>
 <hole x="25.0317" y="45.7251" drill="0.508"/>
 <hole x="23.9878" y="47.2973" drill="0.508"/>
@@ -397,6 +397,7 @@
 <dimension x1="43.688" y1="44.2976" x2="43.6245" y2="28.0924" x3="65.55744375" y3="36.10918125" textsize="1.778" textratio="15" layer="47" unit="inch"/>
 <dimension x1="33.4772" y1="45.593" x2="33.4772" y2="26.797" x3="38.7858" y3="36.195" textsize="1.778" textratio="15" layer="47" unit="inch"/>
 <dimension x1="39.0398" y1="14.478" x2="39.0398" y2="5.842" x3="52.0446" y3="10.16" textsize="1.778" textratio="15" layer="47" unit="inch"/>
+<hole x="2.032" y="21.7424" drill="0.508"/>
 </plain>
 <libraries>
 <library name="SparkFun">
