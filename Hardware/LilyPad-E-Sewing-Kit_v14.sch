@@ -9346,8 +9346,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="180OHM1/10W1%(0603)" prefix="R" uservalue="yes">
-<description>RES-08788</description>
+<deviceset name="150OHM-1/10W-1%(0603)" prefix="R" uservalue="yes">
+<description>RES-11028</description>
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -9359,8 +9359,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-08788" constant="no"/>
-<attribute name="VALUE" value="180" constant="no"/>
+<attribute name="PROD-ID" value="13326" constant="no"/>
+<attribute name="VALUE" value="150" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -9627,11 +9627,11 @@ LilyPad 1206- DIO-09955</description>
 <part name="S3" library="SparkFun-Retired" deviceset="TAC_SWITCH" device="SMD" value="TAC_SWITCHSMD"/>
 <part name="BUTTONS" library="LilyPad-Wearables" deviceset="SEWTAP" device="4" value="SEWTAP8"/>
 <part name="BUTTON-" library="LilyPad-Wearables" deviceset="SEWTAP" device="4" value="SEWTAP8"/>
-<part name="R" library="SparkFun-Resistors" deviceset="180OHM1/10W1%(0603)" device="" value="180"/>
+<part name="R" library="SparkFun-Resistors" deviceset="150OHM-1/10W-1%(0603)" device="" value="150"/>
 <part name="LED+" library="LilyPad-Wearables" deviceset="SEWTAP" device="6"/>
 <part name="LED-" library="LilyPad-Wearables" deviceset="SEWTAP" device="6"/>
 <part name="LED" library="SparkFun-LED" deviceset="LED-WHITE" device="1206" value="WHITE"/>
-<part name="R8" library="SparkFun-Resistors" deviceset="180OHM1/10W1%(0603)" device="" value="180"/>
+<part name="R8" library="SparkFun-Resistors" deviceset="150OHM-1/10W-1%(0603)" device="" value="150"/>
 <part name="LED+1" library="LilyPad-Wearables" deviceset="SEWTAP" device="6"/>
 <part name="LED-1" library="LilyPad-Wearables" deviceset="SEWTAP" device="6"/>
 <part name="LED1" library="SparkFun-LED" deviceset="LED-WHITE" device="1206" value="WHITE"/>
@@ -9661,7 +9661,7 @@ LilyPad 1206- DIO-09955</description>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device=""/>
 <part name="S1" library="SparkFun-Electromechanical" deviceset="SWITCH-SPDT" device="SMD"/>
 <part name="U$5" library="SparkFun-Aesthetics" deviceset="REVISION" device=""/>
-<part name="R1" library="SparkFun-Resistors" deviceset="180OHM1/10W1%(0603)" device="" value="180"/>
+<part name="R1" library="SparkFun-Resistors" deviceset="150OHM-1/10W-1%(0603)" device="" value="150"/>
 <part name="LED+2" library="LilyPad-Wearables" deviceset="SEWTAP" device="6"/>
 <part name="LED-2" library="LilyPad-Wearables" deviceset="SEWTAP" device="6"/>
 <part name="LED2" library="SparkFun-LED" deviceset="LED-WHITE" device="1206" value="WHITE"/>
