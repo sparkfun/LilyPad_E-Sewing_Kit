@@ -10030,6 +10030,11 @@ LilyPad 1206- DIO-09955</description>
 <pinref part="LED3" gate="G$1" pin="A"/>
 <wire x1="60.96" y1="55.88" x2="60.96" y2="53.34" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="S3" gate="1" pin="O"/>
+<pinref part="SLIDEOFF" gate="G$1" pin="1"/>
+<wire x1="162.56" y1="104.14" x2="154.94" y2="104.14" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="N$11" class="0">
 <segment>
@@ -10050,13 +10055,6 @@ LilyPad 1206- DIO-09955</description>
 <pinref part="LED3" gate="G$1" pin="C"/>
 <pinref part="R3" gate="G$1" pin="1"/>
 <wire x1="60.96" y1="45.72" x2="60.96" y2="43.18" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$3" class="0">
-<segment>
-<pinref part="S3" gate="1" pin="O"/>
-<pinref part="SLIDEOFF" gate="G$1" pin="1"/>
-<wire x1="162.56" y1="104.14" x2="154.94" y2="104.14" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

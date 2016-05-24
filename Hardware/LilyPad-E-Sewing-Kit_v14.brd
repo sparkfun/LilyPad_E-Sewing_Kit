@@ -2995,7 +2995,6 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <contactref element="LED2" pad="A"/>
 <contactref element="LED+3" pad="1"/>
 <contactref element="LED3" pad="A"/>
-<wire x1="37.592" y1="26.2763" x2="37.6047" y2="26.2636" width="0.254" layer="1"/>
 <wire x1="37.6047" y1="26.2636" x2="37.6174" y2="26.2509" width="0.254" layer="1"/>
 <wire x1="37.6174" y1="26.2509" x2="37.6174" y2="25.6794" width="0.254" layer="1"/>
 <wire x1="37.6174" y1="25.6794" x2="36.7284" y2="20.5994" width="0.4064" layer="1" curve="-19.852493"/>
@@ -3021,6 +3020,13 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="26.638378125" y1="11.540359375" x2="25.17901875" y2="12.99971875" width="0.4064" layer="1"/>
 <wire x1="25.17901875" y1="12.99971875" x2="25.17901875" y2="13.78458125" width="0.4064" layer="1"/>
 <wire x1="25.17901875" y1="13.78458125" x2="25.1714" y2="13.7922" width="0.4064" layer="1"/>
+<contactref element="S3" pad="1"/>
+<contactref element="SLIDEOFF" pad="1"/>
+<wire x1="37.592" y1="30.226" x2="37.592" y2="26.2763" width="0.254" layer="1"/>
+<wire x1="37.592" y1="26.2763" x2="37.6047" y2="26.2636" width="0.254" layer="1"/>
+<wire x1="34.767" y1="33.187" x2="36.663" y2="33.187" width="0.254" layer="1"/>
+<wire x1="37.592" y1="30.226" x2="37.592" y2="32.258" width="0.254" layer="1"/>
+<wire x1="37.592" y1="32.258" x2="36.663" y2="33.187" width="0.254" layer="1"/>
 </signal>
 <signal name="N$11">
 <contactref element="LED1" pad="C"/>
@@ -3045,14 +3051,6 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="23.638378125" y1="9.8693" x2="24.31541875" y2="9.192259375" width="0.4064" layer="1"/>
 <wire x1="24.31541875" y1="9.192259375" x2="24.31541875" y2="7.98231875" width="0.4064" layer="1"/>
 <wire x1="24.31541875" y1="7.98231875" x2="24.296" y2="7.9629" width="0.4064" layer="1"/>
-</signal>
-<signal name="N$3">
-<contactref element="S3" pad="1"/>
-<contactref element="SLIDEOFF" pad="1"/>
-<wire x1="34.767" y1="33.187" x2="36.663" y2="33.187" width="0.254" layer="1"/>
-<wire x1="36.663" y1="33.187" x2="38.1" y2="31.75" width="0.254" layer="1"/>
-<wire x1="38.1" y1="31.75" x2="38.1" y2="30.734" width="0.254" layer="1"/>
-<wire x1="38.1" y1="30.734" x2="37.592" y2="30.226" width="0.254" layer="1"/>
 </signal>
 </signals>
 <errors>
