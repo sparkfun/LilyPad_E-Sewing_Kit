@@ -9871,7 +9871,7 @@ LilyPad 1206- DIO-09955</description>
 <instance part="MB6" gate="G$1" x="60.96" y="17.78" rot="R90"/>
 <instance part="S1" gate="1" x="43.18" y="137.16"/>
 <instance part="S2" gate="G$1" x="170.18" y="124.46"/>
-<instance part="S3" gate="1" x="167.64" y="106.68" rot="R180"/>
+<instance part="S3" gate="1" x="167.64" y="106.68"/>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 <instance part="FRAME1" gate="V" x="147.32" y="0"/>
 <instance part="U$1" gate="G$1" x="148.844" y="6.858"/>
@@ -9926,11 +9926,6 @@ LilyPad 1206- DIO-09955</description>
 <wire x1="205.74" y1="104.14" x2="220.98" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="P+3" gate="G$1" pin="VCC"/>
 <wire x1="220.98" y1="104.14" x2="220.98" y2="109.22" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="SLIDEON" gate="G$1" pin="1"/>
-<wire x1="185.42" y1="106.68" x2="170.18" y2="106.68" width="0.1524" layer="91"/>
-<pinref part="S3" gate="1" pin="P"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -10031,9 +10026,11 @@ LilyPad 1206- DIO-09955</description>
 <wire x1="60.96" y1="55.88" x2="60.96" y2="53.34" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="S3" gate="1" pin="O"/>
 <pinref part="SLIDEOFF" gate="G$1" pin="1"/>
-<wire x1="162.56" y1="104.14" x2="154.94" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="154.94" y1="104.14" x2="162.56" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="162.56" y1="104.14" x2="162.56" y2="106.68" width="0.1524" layer="91"/>
+<pinref part="S3" gate="1" pin="P"/>
+<wire x1="162.56" y1="106.68" x2="165.1" y2="106.68" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$11" class="0">
@@ -10055,6 +10052,15 @@ LilyPad 1206- DIO-09955</description>
 <pinref part="LED3" gate="G$1" pin="C"/>
 <pinref part="R3" gate="G$1" pin="1"/>
 <wire x1="60.96" y1="45.72" x2="60.96" y2="43.18" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="ON" class="0">
+<segment>
+<pinref part="S3" gate="1" pin="S"/>
+<wire x1="172.72" y1="104.14" x2="180.34" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="104.14" x2="180.34" y2="106.68" width="0.1524" layer="91"/>
+<pinref part="SLIDEON" gate="G$1" pin="1"/>
+<wire x1="180.34" y1="106.68" x2="185.42" y2="106.68" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
