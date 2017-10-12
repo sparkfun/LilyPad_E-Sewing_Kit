@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
+<grid distance="1" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -113,7 +113,7 @@
 <layer number="154" name="FabDoc2" color="7" fill="1" visible="no" active="yes"/>
 <layer number="155" name="FabDoc3" color="7" fill="1" visible="no" active="yes"/>
 <layer number="199" name="Contour" color="7" fill="1" visible="no" active="yes"/>
-<layer number="200" name="200bmp" color="1" fill="10" visible="no" active="no"/>
+<layer number="200" name="200bmp" color="1" fill="10" visible="no" active="yes"/>
 <layer number="201" name="201bmp" color="2" fill="1" visible="no" active="no"/>
 <layer number="202" name="202bmp" color="3" fill="1" visible="no" active="no"/>
 <layer number="203" name="203bmp" color="7" fill="1" visible="no" active="yes"/>
@@ -1308,9 +1308,8 @@
 <hole x="26.91638125" y="47.373540625" drill="0.508"/>
 <hole x="28.432759375" y="45.679359375" drill="0.508"/>
 <text x="31.60268125" y="-18.90521875" size="1.778" layer="51" font="vector" ratio="15">L. Buechley, N. Seidle, P. Lewis, T. Klopfenstein</text>
-<text x="31.711903125" y="-22.6187" size="1.778" layer="51" font="vector" ratio="15">M. West</text>
 <text x="-37.335459375" y="57.0484" size="1.778" layer="47" font="vector" ratio="15">All Units Inches</text>
-<text x="66.94678125" y="37.640259375" size="1.778" layer="51" font="vector" ratio="15">Board Thickness: 0.032"</text>
+<text x="-8.87221875" y="-40.464740625" size="1.778" layer="51" font="vector" ratio="15">Board Thickness: 0.032"</text>
 <text x="5.588" y="0.381" size="1.27" layer="16" font="vector" ratio="15" rot="MR0">v15</text>
 <text x="33.6296" y="41.021" size="0.8128" layer="21" font="vector" ratio="15" rot="R270">ON</text>
 <text x="34.3662" y="30.7594" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">OFF</text>
@@ -1323,7 +1322,7 @@
 <text x="28.702" y="27.051" size="2.1844" layer="21" font="vector" ratio="15" rot="R180">-</text>
 <text x="26.162" y="27.051" size="2.1844" layer="22" font="vector" ratio="15" rot="MR180">-</text>
 <text x="3.048" y="26.797" size="2.1844" layer="22" font="vector" ratio="15" rot="MR180">-</text>
-<text x="8.128" y="7.874" size="1.27" layer="21" font="vector" ratio="15" rot="SR0">Protosnap</text>
+<text x="7.9756" y="8.3312" size="1.27" layer="21" font="vector" ratio="15" rot="SR0">Protosnap</text>
 <rectangle x1="37.846" y1="35.687" x2="38.608" y2="36.957" layer="21"/>
 <rectangle x1="14.732" y1="48.641" x2="16.256" y2="49.403" layer="21"/>
 <wire x1="43.1292" y1="16.9164" x2="43.1546" y2="16.7386" width="0.4572" layer="29"/>
@@ -1348,7 +1347,7 @@
 <wire x1="33.530540625" y1="17.302478125" x2="33.543240625" y2="16.46681875" width="0.4572" layer="29"/>
 <wire x1="33.5407" y1="2.8448" x2="35.00628125" y2="1.77038125" width="0.4572" layer="29"/>
 <wire x1="33.550859375" y1="2.829559375" x2="33.55848125" y2="3.710940625" width="0.4572" layer="29"/>
-<text x="66.215259375" y="31.69411875" size="1.778" layer="51" font="vector" ratio="15">Purple Solder Mask</text>
+<text x="-8.841740625" y="-43.23588125" size="1.778" layer="51" font="vector" ratio="15">Purple Solder Mask</text>
 <wire x1="24.462740625" y1="17.272" x2="24.406859375" y2="16.393159375" width="0.4572" layer="29"/>
 <wire x1="5.1816" y1="22.646640625" x2="4.9149" y2="22.400259375" width="0.4572" layer="29"/>
 <wire x1="4.8133" y1="21.943059375" x2="4.886959375" y2="22.352" width="0.4572" layer="29"/>
@@ -1372,7 +1371,8 @@
 <text x="26.76398125" y="12.242803125" size="1.524" layer="22" font="vector" ratio="15" rot="MR0">+</text>
 <text x="23.17241875" y="6.370321875" size="1.27" layer="22" font="vector" ratio="15" rot="MR0">-</text>
 <text x="26.162" y="11.176" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">White</text>
-<text x="49.53" y="17.78" size="1.524" layer="22" font="vector" ratio="15" rot="MR0">sparkfun.com/esewing</text>
+<text x="45.72" y="17.78" size="1.524" layer="22" font="vector" ratio="15" rot="MR0">sparkfun.com/esewing</text>
+<text x="31.75" y="-22.86" size="1.778" layer="51" font="vector" ratio="15">Elias Santistevan</text>
 </plain>
 <libraries>
 <library name="SparkFun-Electromechanical">
@@ -2741,6 +2741,21 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="10.06" y="2.58"/>
 </polygon>
 </package>
+<package name="ORDERING_INSTRUCTIONS">
+<description>&lt;h3&gt;Special Ordering Instructions Alert&lt;/h3&gt;
+&lt;p&gt;Indicates that the PCB material, colors, copper weights, and/or thickness are non-standard.&lt;/p&gt;
+&lt;p&gt;(Standard is 1.6mm FR4, 1 oz copper, immersion silver plating, red soldermask, white silkscreen.)&lt;/p&gt;
+&lt;p&gt;Use 0.7" Vector font @ 8% ratio</description>
+<text x="1.27" y="-1.27" size="3.048" layer="51" font="vector" ratio="15" align="top-left">Ordering Instructions:</text>
+<wire x1="0" y1="0" x2="101.6" y2="0" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="0" x2="101.6" y2="-8.89" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="-8.89" x2="101.6" y2="-50.8" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="-50.8" x2="0" y2="-50.8" width="0.2032" layer="51"/>
+<wire x1="0" y1="-50.8" x2="0" y2="-8.89" width="0.2032" layer="51"/>
+<wire x1="0" y1="-8.89" x2="0" y2="0" width="0.2032" layer="51"/>
+<wire x1="0" y1="-8.89" x2="101.6" y2="-8.89" width="0.2032" layer="51"/>
+<text x="1.27" y="-6.35" size="1.778" layer="51" font="vector" align="top-left">(Add these comments when uploading gerbers.)</text>
+</package>
 </packages>
 </library>
 </libraries>
@@ -3005,6 +3020,9 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="U$7" library="LilyPad-Wearables" package="LOGO-L" value="" x="33.61944375" y="9.32688125" rot="MR0"/>
 <element name="U$8" library="LilyPad-Wearables" package="LOGO-L" value="" x="24.47544375" y="9.19988125" rot="MR0"/>
 <element name="LOGO3" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="15.24" y="2.54" rot="MR0"/>
+<element name="U$9" library="SparkFun-Aesthetics" package="ORDERING_INSTRUCTIONS" value="SPECIAL_INSTRUCTIONS-ORDERING" x="-10.16" y="-26.67"/>
+<element name="FD3" library="SparkFun-Aesthetics" package="MICRO-FIDUCIAL" value="FIDUCIALUFIDUCIAL" x="48.768" y="49.911" rot="MR0"/>
+<element name="FD4" library="SparkFun-Aesthetics" package="MICRO-FIDUCIAL" value="FIDUCIALUFIDUCIAL" x="1.778" y="1.651" rot="MR0"/>
 </elements>
 <signals>
 <signal name="N$1">
