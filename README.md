@@ -16,7 +16,7 @@ Documentation
 
 Version History
 ---------------
-* [Hw-v13](URL for tag specific to this version) - Description 
+* [Hw-v13](https://github.com/sparkfun/LilyPad_E-Sewing_Kit/releases/tag/Hw-v13) - Version 13.
 
 Product Versions
 ----------------
