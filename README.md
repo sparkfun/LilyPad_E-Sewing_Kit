@@ -1,10 +1,18 @@
 Lilypad_E-Sewing_Kit
 ====================
 
-[![ProtoSnap-LilyPad E-Sewing Kit](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/0/3/2/11032-04.jpg)  
-*ProtoSnap-LilyPad E-Sewing Kit (DEV-11032)*](https://www.sparkfun.com/products/11032)
+<table class="table table-hover table-striped table-bordered">
+  <tr>
+   <td><a href="https://www.sparkfun.com/products/14546"><div align="center"><img src="https://cdn.sparkfun.com//assets/parts/1/2/6/7/3/14546-01.jpg" title="LilyPad E-Sewing ProtoSnap"></div></a></td>
+   <td><a href="https://www.sparkfun.com/products/14528"><div align="center"><img src="https://cdn.sparkfun.com//assets/parts/1/2/6/1/2/14528-02.jpg" title="LilyPad E-Sewing ProtoSnap Kit"></div></a></td>
+  </tr>
+  <tr>
+    <td> LilyPad E-Sewing ProtoSnap [ <a href="https://www.sparkfun.com/products/14546">DEV-14546</a> ]</td>
+    <td> LilyPad E-Sewing ProtoSnap Kit[<a href="https://www.sparkfun.com/products/14528">KIT-14528</a>]</td>
+  </tr>
+</table>
 
-This kit provides a LilyPad coin cell breakout board paired with a switch, a button, and five LEDs. It comes pre-wired so you can plug in a battery and use teh switch and button to turn the LEDs on and off. 
+The LilyPad E-Sewing ProtoSnap is a great way to explore how buttons and switches behave in simple e-sewing circuits before crafting your project. It comes pre-wired so you can plug in a battery and use the switch and button to turn the LEDs on and off. 
 
 Repository Contents
 -------------------
@@ -16,13 +24,16 @@ Documentation
 
 Version History
 ---------------
-* [Hw-v13](https://github.com/sparkfun/LilyPad_E-Sewing_Kit/releases/tag/Hw-v13) - Version 13.
+* []() - Version 15. Currently available.
+* [Hw-v13](https://github.com/sparkfun/LilyPad_E-Sewing_Kit/releases/tag/Hw-v13) - Version 13. (Retired)
 
 Product Versions
 ----------------
-* [DEV-11032](https://www.sparkfun.com/products/11032)- ProtoSnap LilyPad E-Sewing Kit
-* [RTL-11051](https://www.sparkfun.com/products/11051)- Retail packaging of LilyPad E-Sewing Kit
-* [DEV-10964](https://www.sparkfun.com/products/retired/10964) - PorotSnap - LilyPad E-Sewing Kit (v11 Retired)
+* [DEV-14546](https://www.sparkfun.com/products/14546) - LilyPad E-Sewing ProtoSnap
+* [KIT-14528](https://www.sparkfun.com/products/14528) - LilyPad E-Sewing ProtoSnap Kit
+* [DEV-11032](https://www.sparkfun.com/products/11032) - ProtoSnap LilyPad E-Sewing Kit (v13 Retired)
+* [RTL-11051](https://www.sparkfun.com/products/11051) - Retail packaging of LilyPad E-Sewing Kit (Retired)
+* [DEV-10964](https://www.sparkfun.com/products/retired/10964) - ProtoSnap - LilyPad E-Sewing Kit (v11 Retired)
 
 License Information
 -------------------
