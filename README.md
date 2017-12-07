@@ -1,4 +1,4 @@
-Lilypad_E-Sewing_Kit
+Lilypad E-Sewing ProtoSnap
 ====================
 
 <table class="table table-hover table-striped table-bordered">
@@ -17,6 +17,7 @@ The LilyPad E-Sewing ProtoSnap is a great way to explore how buttons and switche
 Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
+* **/Production** - Production panel files (.brd)
 
 Documentation
 --------------
