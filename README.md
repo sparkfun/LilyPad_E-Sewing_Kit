@@ -22,6 +22,7 @@ Product Versions
 ----------------
 * [DEV-11032](https://www.sparkfun.com/products/11032)- ProtoSnap LilyPad E-Sewing Kit
 * [RTL-11051](https://www.sparkfun.com/products/11051)- Retail packaging of LilyPad E-Sewing Kit
+* [DEV-10964](https://www.sparkfun.com/products/retired/10964) - PorotSnap - LilyPad E-Sewing Kit (v11 Retired)
 
 License Information
 -------------------
