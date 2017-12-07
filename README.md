@@ -3,12 +3,12 @@ Lilypad_E-Sewing_Kit
 
 <table class="table table-hover table-striped table-bordered">
   <tr>
-   <td><a href="https://www.sparkfun.com/products/14546"><div align="center"><img src="https://cdn.sparkfun.com//assets/parts/1/2/6/7/3/14546-01.jpg" title="LilyPad E-Sewing ProtoSnap"></div></a></td>
-   <td><a href="https://www.sparkfun.com/products/14528"><div align="center"><img src="https://cdn.sparkfun.com//assets/parts/1/2/6/1/2/14528-02.jpg" title="LilyPad E-Sewing ProtoSnap Kit"></div></a></td>
+   <td><center><a href="https://www.sparkfun.com/products/14546"><div align="center"><img src="https://cdn.sparkfun.com//assets/parts/1/2/6/7/3/14546-01.jpg" title="LilyPad E-Sewing ProtoSnap"></div></a></center></td>
+   <td><center><a href="https://www.sparkfun.com/products/14528"><div align="center"><img src="https://cdn.sparkfun.com//assets/parts/1/2/6/1/2/14528-02.jpg" title="LilyPad E-Sewing ProtoSnap Kit"></div></a></center></td>
   </tr>
   <tr>
-    <td> LilyPad E-Sewing ProtoSnap [ <a href="https://www.sparkfun.com/products/14546">DEV-14546</a> ]</td>
-    <td> LilyPad E-Sewing ProtoSnap Kit[<a href="https://www.sparkfun.com/products/14528">KIT-14528</a>]</td>
+    <td><center> LilyPad E-Sewing ProtoSnap [<a href="https://www.sparkfun.com/products/14546">DEV-14546</a> ]</center></td>
+    <td><center> LilyPad E-Sewing ProtoSnap Kit [<a href="https://www.sparkfun.com/products/14528">KIT-14528</a>]</center></td>
   </tr>
 </table>
 
