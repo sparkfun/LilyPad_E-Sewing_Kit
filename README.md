@@ -10,11 +10,18 @@ Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
 
+Documentation
+--------------
+* **[Hookup Guide](https://www.sparkfun.com/tutorials/307)** - Basic hookup guide for the E-Sewing ProtoSnap.
+
+Version History
+---------------
+* [Hw-v1.0](URL for tag specific to this version) - Description 
 
 Product Versions
 ----------------
 * [DEV-11032](https://www.sparkfun.com/products/11032)- ProtoSnap LilyPad E-Sewing Kit
-* [RTL-11051] (https://www.sparkfun.com/products/11051)- Retail packaging of LilyPad E-Sewing Kit
+* [RTL-11051](https://www.sparkfun.com/products/11051)- Retail packaging of LilyPad E-Sewing Kit
 
 License Information
 -------------------
