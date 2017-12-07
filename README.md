@@ -25,7 +25,7 @@ Documentation
 
 Version History
 ---------------
-* []() - Version 15. Currently available.
+* [Hw-v15](https://github.com/sparkfun/LilyPad_E-Sewing_Kit/releases/tag/Hw-v15) - Version 15. Currently available.
 * [Hw-v13](https://github.com/sparkfun/LilyPad_E-Sewing_Kit/releases/tag/Hw-v13) - Version 13. (Retired)
 
 Product Versions
