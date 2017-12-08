@@ -7,7 +7,7 @@ Lilypad E-Sewing ProtoSnap
    <td><a href="https://www.sparkfun.com/products/14528"><div align="center"><img src="https://cdn.sparkfun.com//assets/parts/1/2/6/1/2/14528-02.jpg" title="LilyPad E-Sewing ProtoSnap Kit"></div></a></td>
   </tr>
   <tr>
-    <td><div align="center">LilyPad E-Sewing ProtoSnap [<a href="https://www.sparkfun.com/products/14546">DEV-14546</a> ]</div></td>
+    <td><div align="center">LilyPad E-Sewing ProtoSnap [<a href="https://www.sparkfun.com/products/14546">DEV-14546</a>]</div></td>
     <td><div align="center">LilyPad E-Sewing ProtoSnap Kit [<a href="https://www.sparkfun.com/products/14528">KIT-14528</a>]</div></td>
   </tr>
 </table>
