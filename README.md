@@ -21,7 +21,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Hookup Guide](https://www.sparkfun.com/tutorials/307)** - Basic hookup guide for the E-Sewing ProtoSnap.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/lilypad-e-sewing-protosnap-hookup-guide)** - Basic hookup guide for the E-Sewing ProtoSnap.
 
 Version History
 ---------------
